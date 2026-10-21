@@ -1,0 +1,6 @@
+{
+  "name": "Maps Locator",
+  "description": "Google Maps & live location tracker with service registration, Gemini search and maps grounding, high thinking reasoning, and image generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
